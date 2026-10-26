@@ -1,0 +1,25 @@
+{
+  "root": "..",
+  "files": [
+    {
+      "hardware": "A6000",
+      "path": "A6000/cell_summary01.csv"
+    },
+    {
+      "hardware": "A6000",
+      "path": "A6000/cell_summary02.csv"
+    },
+    {
+      "hardware": "A100",
+      "path": "A100/cell_summary.csv"
+    },
+    {
+      "hardware": "H100",
+      "path": "H100/cell_summary02.csv"
+    },
+    {
+      "hardware": "H100",
+      "path": "H100/cell_summary01.csv"
+    }
+  ]
+}
